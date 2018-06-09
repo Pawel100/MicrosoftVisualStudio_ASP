@@ -1,0 +1,11 @@
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\bin\Debug\netcoreapp2.0\P_Urban_WebbApp.deps.json
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\bin\Debug\netcoreapp2.0\P_Urban_WebbApp.runtimeconfig.json
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\bin\Debug\netcoreapp2.0\P_Urban_WebbApp.runtimeconfig.dev.json
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\bin\Debug\netcoreapp2.0\P_Urban_WebbApp.dll
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\bin\Debug\netcoreapp2.0\P_Urban_WebbApp.pdb
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.csprojAssemblyReference.cache
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.csproj.CoreCompileInputs.cache
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.AssemblyInfoInputs.cache
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.AssemblyInfo.cs
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.dll
+C:\Users\student2\Desktop\mwo_PU\P_Urban_WebbApp\P_Urban_WebbApp\obj\Debug\netcoreapp2.0\P_Urban_WebbApp.pdb
