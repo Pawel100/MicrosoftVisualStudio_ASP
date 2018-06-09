@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
+using P_Urban_WebbApp.Models;
 
 namespace P_Urban_WebbApp
 {
@@ -22,6 +24,9 @@ namespace P_Urban_WebbApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddDbContext<P_Urban_WebbAppContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("P_Urban_WebbAppContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
